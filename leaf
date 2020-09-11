@@ -1,6 +1,7 @@
 #include<stdio.h>
 #define MAXVEXS 1005
-#define MAXARCS 5005
+
+
 struct edge{
 	int u,v,w;
 };
